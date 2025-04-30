@@ -1,6 +1,6 @@
 # SpectraGuard - Advanced Windows Security Scanner
 
-A comprehensive security auditing and vulnerability assessment tool with a modern GUI interface.
+A comprehensive security auditing and vulnerability assessment tool with a modern GUI interface specially made for Security Professionals.
 
 ![SpectraGuard Dashboard](screenshots/dashboard.png)
 
