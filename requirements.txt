@@ -1,0 +1,7 @@
+customtkinter
+matplotlib
+networkx
+fpdf
+psutil
+Pillow
+requests
